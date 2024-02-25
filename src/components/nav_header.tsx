@@ -27,10 +27,10 @@ const nav_header = () => {
         <div className="tag_name">BlueHosting</div>
       </div>
       <div className="nav_link">
-        <p>Home ></p>
-        <p>Hosting for all ></p>
-        <p>Hosting ></p>
-        <p>Hosting6 ></p>
+        <p>Home &gt;</p>
+        <p>Hosting for all &gt;</p>
+        <p>Hosting &gt;</p>
+        <p>Hosting6 &gt;</p>
         <p>Hosting5</p>
       </div>
     </div>
